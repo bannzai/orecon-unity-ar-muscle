@@ -6,6 +6,8 @@
 ### [俺コン Vol.1 / Day. 2](https://orecon.connpass.com/event/64285/)
 マッチョにUnityちゃんのアニメーションをつけた話 / [bannzai](https://github.com/bannzai/) ([@yhirose741](https://twitter.com/yhirose741/))
 
+---
+
 ## 自己紹介
 名前: 廣瀬 雄大
 愛称: スター乞食
@@ -19,5 +21,7 @@ Swift製の自作OSSを作っては公開して勉強会で発表して
 
 github:  [bannzai](https://github.com/bannzai/)
 twitter: [@yhirose741](https://twitter.com/yhirose741/)
+
+--- 
 
 ## 本題
