@@ -1,4 +1,4 @@
-### マッチョにUnityちゃんのアニメーションをつけた話
+### マッチョに**Unity**ちゃんのアニメーションをつけた話
 **[俺コン Vol.1 / Day. 2](https://orecon.connpass.com/event/64285/)**
 
 ---
