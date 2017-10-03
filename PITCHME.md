@@ -76,10 +76,10 @@
 ## 今回は以下の環境で開発
 
 - [Unity ARKit plugin](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-arkit-plugin-92515) 1.0.9
-<p align="left">- macOS Sierra 10.12.6</p>
-<p align="left">- Unity 5.6.3p2</p>
-<p align="left">- iPhone7 iOS 11.0</p>
-<p align="left">- Xcode 9.0</p>
+- macOS Sierra 10.12.6
+- Unity 5.6.3p2
+- iPhone7 iOS 11.0
+- Xcode 9.0
 
 +++ 
 
