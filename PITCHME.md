@@ -4,7 +4,7 @@
 ---
 
 ## 自己紹介
-<img width="160px" src="https://avatars0.githubusercontent.com/u/10897361?v=4&s=400&u=f1cd0d99b3913476fe7bdcb6d4934105df2aa15f" />
+<img align="left" width="160px" src="https://avatars0.githubusercontent.com/u/10897361?v=4&s=400&u=f1cd0d99b3913476fe7bdcb6d4934105df2aa15f" />
 名前: 廣瀬 雄大
 あだ名: スター乞食
 
