@@ -61,8 +61,8 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 +++ 
 
 ## ARKit plugin のサンプルのシーンを使おう
-`Unity ARKit Plugin`にはいくつかの`Scene`が含まれています
-`Open Scene`から`$HOME/YourProject/Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity`を開きます
+`Unity ARKit Plugin`にはいくつかの`Scene`が含まれています。`Open Scene`から
+`$HOME/YourProject/Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity`を開きます
 
 +++
 
