@@ -140,13 +140,16 @@
 ---
 
 ## マッチョを可愛くする
-ついにマッチョにUnityちゃんのアニメーションをつけるフェーズまで来ました
-[UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)
-<img width="400px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/8d7d62d3-11ff-5fce-4cd3-03c6b0f615ae.png" />
+ついにマッチョにUnityちゃんのアニメーションをつけるフェーズまで来ました<br>
+[UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)<br>
+
 
 +++
 
-[UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)の`Asset`をプロジェクトに追加します(省略
+<img width="400px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/8d7d62d3-11ff-5fce-4cd3-03c6b0f615ae.png" />
+
+[UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)の`Asset`をプロジェクトに追加します
+`Asset Store`から探して`import`しましょう
 
 +++
 
