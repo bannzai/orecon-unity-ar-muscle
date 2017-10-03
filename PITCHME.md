@@ -65,10 +65,13 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 
 `Open Scene`から
 <img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/7340b6c5-2355-1408-a7ce-d572be6e660b.png" />
-
 `$HOME/YourProject/Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity`を開く
 
++++
+
 <img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/58d033f0-3c7e-67ac-dca4-bb3e6418d33b.png" /> 
+
++++
 
 `Scene`が変わってこうなる
 <img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
