@@ -32,6 +32,8 @@
 <p align="left">作った時の流れをざっくり紹介します  </p>
 <p align="left">最後に参考になった記事等を最後紹介します</p>  
 
+---
+
 ## 前置き2 Unityちゃん
 
 <img width="400px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/8d7d62d3-11ff-5fce-4cd3-03c6b0f615ae.png" />
