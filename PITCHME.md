@@ -20,7 +20,7 @@
 
 ---
 
-## [プロポーザル](https://iosdc.jp/2017/node/1418)
+## プロポーザル
 ![image.png](https://qiita-image-store.s3.amazonaws.com/0/84459/70669659-4f9f-f62e-1bbd-700fc8e3b18c.png)
 
 ---
