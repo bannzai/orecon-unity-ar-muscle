@@ -47,7 +47,7 @@
 
 ## マッチョ開発環境
 
-**Unity ARKit plugin**に記載されている環境を準備
+<h2> Unity ARKit plugin**に記載されている環境を準備 </h2>
 
 <img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/e6b5c364-23ab-9f0c-53ec-745b8bede413.png" />
 
