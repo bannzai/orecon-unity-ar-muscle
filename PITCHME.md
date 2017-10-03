@@ -48,6 +48,8 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 
 <img width="600px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/e6b5c364-23ab-9f0c-53ec-745b8bede413.png" />
 
++++
+
 ## 今回は以下の環境で開発
 
 - [Unity ARKit plugin](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-arkit-plugin-92515) 1.0.9
@@ -55,6 +57,8 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 - Unity 5.6.3p2
 - iPhone7 iOS 11.0
 - Xcode 9.0
+
++++ 
 
 ## ARKit plugin のサンプルのシーンを使おう
 `Unity ARKit Plugin`にはいくつかの`Scene`が含まれています
@@ -75,7 +79,11 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 今回のマッチョは`Max`を使います
 `Asset Store`で`Max`と検索して`import`しましょう
 
++++
+
 <img width="989" alt="スクリーンショット 2017-09-30 14.45.15.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/e45f7469-a852-e427-c1b0-6aee123c589d.png">
+
++++ 
 
 `Assets`に`Max`が確認できればおKです
 <img width="989" alt="スクリーンショット 2017-09-30 14.45.15.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/c8721c66-1519-09a1-5dcf-55f051ae4a3b.png">
@@ -83,14 +91,20 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 ---
 
 ## マッチョを配置
-のディレクトリを展開して言って`prefab`に入っている`Max`を選択
+`Mac` のディレクトリを展開して言って`prefab`に入っている`Max`を選択
 `HitCubeParent`の下に選択した`Max`をドラッグ&ドロップする
 もともとあった`HitCube`って素材は削除していいです
 
++++
+
 <img width="1073" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/11a20ef2-a74a-f046-34b7-e49f0db7885e.png">
+
++++
 
 配置した`Max`に`Script`を追加します
 `Unity AR Hit Test Example`がSampleにあるので今回はこれを使います
+
++++
 
 <img width="1073" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/cc913daa-9fcb-5aa3-9423-070e33ac39ad.png" />
 
@@ -101,7 +115,11 @@ twitter: [@yhirose741](https://twitter.com/yhirose741/)
 [UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)
 <img width="1073" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/8d7d62d3-11ff-5fce-4cd3-03c6b0f615ae.png" />
 
++++
+
 [UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)の`Asset`をプロジェクトに追加します(省略
+
++++
 
 Animationをまず作って行きましょう
 `Assets`右クリック
@@ -109,19 +127,28 @@ Animationをまず作って行きましょう
 → `Animate Controller`
 で`AnimateController`という名前で`Animation`を定義して行きます
 
++++
+
 <img width="572" alt="スクリーンショット 2017-10-02 2.30.32.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/3932ef82-0e7d-79ac-a748-3a10d45ff77b.png">
+
 
 作った`AnimateController`をダブルクリックすると
 `Animator`タブが画面上に表示されます
 この画面で`Empty`の状態をとりあえず作成します
 
++++
+
 <img width="1331" alt="スクリーンショット 2017-10-02 2.32.57.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/fbee4454-ea5f-caf9-5863-6c77e2c3c99d.png">
+
++++
 
 作ったらこうなる
 <img width="1008" alt="スクリーンショット 2017-10-02 2.34.21.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/bf0d66a0-6b19-5484-0737-0987376f35cb.png">
 
 ここから`UnityChan/Animations`に入っている`WIN00`というアニメーションを
 先ほど作った`Empty`のステートに定義していきます
+
++++
 
 <img width="1335" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/4dca2d63-1fbe-7b52-7886-e85812175c8d.png">
 
