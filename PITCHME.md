@@ -6,15 +6,15 @@
 ## 自己紹介
 <img align="left" width="160px" src="https://avatars0.githubusercontent.com/u/10897361?v=4&s=400&u=f1cd0d99b3913476fe7bdcb6d4934105df2aa15f" />
 <div align="left"> 
-  名前: 廣瀬 雄大</br>
-  あだ名: スター乞食
+  <p>  名前: 廣瀬 雄大</br></p>
+  <p>  あだ名: スター乞食</p>
 </div>
 <br>
 Swift製のライブラリを作って公開して発表して*スターください*と言っていたらこんな呼び名に
 
 <div align="left"> 
-  github:  [bannzai](https://github.com/bannzai/)</br>
-  twitter: [@yhirose741](https://twitter.com/yhirose741/)
+  <p> github:  [bannzai](https://github.com/bannzai/)</br> </p>
+  <p> twitter: [@yhirose741](https://twitter.com/yhirose741/) </p>
 </div>
 
 ---
