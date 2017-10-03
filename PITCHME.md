@@ -11,7 +11,7 @@
   <p>&nbsp;&nbsp;あだ名: スター乞食</p>
 </div>
 
-<p aligh="left">&nbsp;Swift製のライブラリを作って公開して発表して<br>**スターください**と言っていたらこんなあだ名に。。。</p>
+<p aligh="left">&nbsp;Swift製のライブラリを作って公開して発表して<br>**スターください**と言っていたらこんなあだ名に</p>
 
 <div align="left"> 
   <p>&nbsp;github:  [bannzai](https://github.com/bannzai/)</br> </p>
