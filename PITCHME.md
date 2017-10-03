@@ -188,7 +188,7 @@ Animationをまず作って行きましょう
 <img width="600px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/4dca2d63-1fbe-7b52-7886-e85812175c8d.png">
 
 <p style="font-size: 17px; align=left;">これでマッチョが可愛くアニメーションするようになりました。やったね <br></p>
-<p style="font-size: 17px; align=left;">あとは光の当たり方とかマッチョの向きとかを適当に調整して</p>
+<p style="font-size: 17px; align=left;">あとは光の当たり方とかマッチョの向きとかを適当に調整して完成です</p>
 
 ---
 
