@@ -10,7 +10,7 @@
   <p>  あだ名: スター乞食</p>
 </div>
 <br>
-Swift製のライブラリを作って公開して発表して*スターください*と言っていたらこんな呼び名に
+<p aligh="left">Swift製のライブラリを作って公開して発表して*スターください*と言っていたらこんな呼び名に</p>
 
 <div align="left"> 
   <p> github:  [bannzai](https://github.com/bannzai/)</br> </p>
