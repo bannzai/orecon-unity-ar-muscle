@@ -77,7 +77,7 @@
 
 +++
 
-`Scene`が変わってこうなる
+`Scene`が変わってこうなる<br>
 
 <img align="bottom" height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
 
@@ -93,7 +93,8 @@
 
 +++ 
 
-`Assets`に`Max`が確認できればおKです
+`Assets`に`Max`が確認できればおKです <br>
+
 <img width="400px" alt="スクリーンショット 2017-09-30 14.45.15.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/c8721c66-1519-09a1-5dcf-55f051ae4a3b.png">
 
 ---
