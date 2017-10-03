@@ -13,7 +13,7 @@
 Swift製のライブラリを作って公開して発表して*スターください*と言っていたらこんな呼び名に
 
 <div align="left"> 
-  github:  [bannzai](https://github.com/bannzai/)
+  github:  [bannzai](https://github.com/bannzai/)  
   twitter: [@yhirose741](https://twitter.com/yhirose741/)
 </div>
 
