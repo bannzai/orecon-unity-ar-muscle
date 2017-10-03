@@ -46,8 +46,8 @@
 
 ## 前置き3 マッチョについて
 
-筋肉質の男です<br>
-この後発表する筋肉エンジニアの`K-BOY`さんとは一切関係ないです<br>
+<p align="left">筋肉質の男です<br> </p>
+<p align="left"> この後発表する筋肉エンジニアの`K-BOY`さんとは一切関係ないです<br></p>
 
 
 ---
@@ -76,10 +76,10 @@
 ## 今回は以下の環境で開発
 
 - [Unity ARKit plugin](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-arkit-plugin-92515) 1.0.9
-- macOS Sierra 10.12.6
-- Unity 5.6.3p2
-- iPhone7 iOS 11.0
-- Xcode 9.0
+<p align="left">- macOS Sierra 10.12.6</p>
+<p align="left">- Unity 5.6.3p2</p>
+<p align="left">- iPhone7 iOS 11.0</p>
+<p align="left">- Xcode 9.0</p>
 
 +++ 
 
@@ -183,7 +183,8 @@ Animationをまず作って行きましょう
 
 <img width="600px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/4dca2d63-1fbe-7b52-7886-e85812175c8d.png">
 
-これでマッチョが可愛くアニメーションするようになりました。やったね
+これでマッチョが可愛くアニメーションするようになりました。やったね <br>
+あとは光の当たり方とかマッチョの向きとかを適当に調整して
 
 ---
 
