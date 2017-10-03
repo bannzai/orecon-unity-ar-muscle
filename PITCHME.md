@@ -121,8 +121,8 @@
 ---
 
 ## マッチョを配置
-`Mac` のディレクトリを展開して言って`prefab`に入っている`Max`を選択
-`HitCubeParent`の下に選択した`Max`をドラッグ&ドロップする
+`Mac` のディレクトリを展開して言って`prefab`に入っている`Max`を選択<br>
+`HitCubeParent`の下に選択した`Max`をドラッグ&ドロップする<br>
 もともとあった`HitCube`って素材は削除していいです
 
 +++
@@ -131,7 +131,7 @@
 
 +++
 
-配置した`Max`に`Script`を追加します
+配置した`Max`に`Script`を追加します<br>
 `Unity AR Hit Test Example`がSampleにあるので今回はこれを使います
 
 +++
@@ -154,11 +154,11 @@
 
 +++
 
-Animationをまず作って行きましょう
-`Assets`右クリック
-→ `Create`
-→ `Animate Controller`
-で`AnimateController`という名前で`Animation`を定義して行きます
+Animationをまず作って行きましょう<br>
+`Assets`右クリック<br>
+→ `Create`<br>
+→ `Animate Controller`<br>
+で`AnimateController`という名前で`Animation`を定義して行きます<br>
 
 +++
 
@@ -259,7 +259,7 @@ https://qiita.com/bathtimefish/items/15764799cbf1e2ea2041
 
 +++
 
-`GitPitch`なので`GitHub`のリポジトリにこの資料があります
+`GitPitch`なので`GitHub`のリポジトリにこの資料があります<br>
 そう、みなさんこの資料にはなんと**スターをつけることができるのです**
 
 
