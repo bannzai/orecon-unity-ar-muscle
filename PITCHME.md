@@ -78,7 +78,8 @@
 +++
 
 `Scene`が変わってこうなる
-<img height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
+
+<img align="bottom" height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
 
 ---
 
