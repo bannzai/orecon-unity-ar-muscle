@@ -107,7 +107,7 @@
 
 +++
 
-<img width="400px" alt="スクリーンショット 2017-09-30 14.45.15.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/e45f7469-a852-e427-c1b0-6aee123c589d.png">
+<img width="600px" alt="スクリーンショット 2017-09-30 14.45.15.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/e45f7469-a852-e427-c1b0-6aee123c589d.png">
 
 +++ 
 
@@ -124,7 +124,7 @@
 
 +++
 
-<img width="400px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/11a20ef2-a74a-f046-34b7-e49f0db7885e.png">
+<img width="600px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/11a20ef2-a74a-f046-34b7-e49f0db7885e.png">
 
 +++
 
@@ -165,19 +165,21 @@ Animationをまず作って行きましょう
 
 +++
 
-<img width="400px" alt="スクリーンショット 2017-10-02 2.32.57.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/fbee4454-ea5f-caf9-5863-6c77e2c3c99d.png">
+<img width="600px" alt="スクリーンショット 2017-10-02 2.32.57.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/fbee4454-ea5f-caf9-5863-6c77e2c3c99d.png">
 
 +++
 
-作ったらこうなる
-<img width="400px" alt="スクリーンショット 2017-10-02 2.34.21.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/bf0d66a0-6b19-5484-0737-0987376f35cb.png">
+作ったらこうなる<br>
+<img width="600px" alt="スクリーンショット 2017-10-02 2.34.21.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/bf0d66a0-6b19-5484-0737-0987376f35cb.png">
+
++++
 
 ここから`UnityChan/Animations`に入っている`WIN00`というアニメーションを
 先ほど作った`Empty`のステートに定義していきます
 
 +++
 
-<img width="400px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/4dca2d63-1fbe-7b52-7886-e85812175c8d.png">
+<img width="600px" alt="hoge.png" src="https://qiita-image-store.s3.amazonaws.com/0/84459/4dca2d63-1fbe-7b52-7886-e85812175c8d.png">
 
 これでマッチョが可愛くアニメーションするようになりました。やったね
 
@@ -195,10 +197,6 @@ Animationをまず作って行きましょう
 
 ---
 
-<iframe width="400px" height="630px" src="https://www.youtube.com/embed/e-KPO3kzy-M" frameborder="0" allowfullscreen></iframe>
-
-<h1></h1>
-ワンモアマッチョ
-<iframe  width="400px" height="630px"  src="https://www.youtube.com/embed/SDcD6hBul78" frameborder="0" allowfullscreen></iframe>
+### まとめ
 
 ---
