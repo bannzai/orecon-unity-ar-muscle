@@ -27,25 +27,25 @@
 
 
 ## 前置き
-
-今回は`Unity`の使い方だったり特徴というものは一切話しません
-大雑把に作ったものの紹介と 
-肝となる `Unity<->ARKit` をブリッジングしているクラスとかを紹介し
-参考になった記事等を紹介します
+今回は`Unity`の使い方だったり特徴というものは詳細にはお話ししません
+~~マッチョ~~ こういうものを作ったぜ、というお話と
+作った時の流れをざっくり紹介します
+最後に参考になった記事等を最後紹介します
 
 ---
 
 ## 今回お話しすること
 
-- マッチョのための開発環境の紹介
+- マッチョ開発環境
 - 今回のマッチョ
 - マッチョを配置
 - マッチョを可愛くする
 - マッチョ鑑賞 可愛いよマッチョ可愛いよ
+- まとめ
 
 ---
 
-## マッチョのための開発環境の紹介
+## マッチョ開発環境
 
 **Unity ARKit plugin**に記載されている環境を準備
 
@@ -69,16 +69,16 @@
 
 +++
 
-<img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/7340b6c5-2355-1408-a7ce-d572be6e660b.png" />
+<img height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/7340b6c5-2355-1408-a7ce-d572be6e660b.png" />
 
 +++
 
-<img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/58d033f0-3c7e-67ac-dca4-bb3e6418d33b.png" /> 
+<img height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/58d033f0-3c7e-67ac-dca4-bb3e6418d33b.png" /> 
 
 +++
 
 `Scene`が変わってこうなる
-<img width="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
+<img height="400px" src="https://qiita-image-store.s3.amazonaws.com/0/84459/9c23bc73-ac1b-499e-5236-aba2de96fe46.png" />
 
 ---
 
