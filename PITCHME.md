@@ -10,7 +10,7 @@
   <p>&nbsp;&nbsp;名前: 廣瀬 雄大</br></p>
   <p>&nbsp;&nbsp;あだ名: スター乞食</p>
 </div>
-<br>
+
 <p aligh="left">&nbsp;Swift製のライブラリを作って公開して発表して*スターください*と言っていたらこんな呼び名に</p>
 
 <div align="left"> 
